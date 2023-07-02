@@ -1,2 +1,2 @@
-# gitLearn
-learn to how to use github
+# GitLearn
+Learn to how to use github
